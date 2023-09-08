@@ -1,0 +1,3691 @@
+[
+  {
+    "id": "4815",
+    "lang": "en-GB",
+    "hits": 0,
+    "name": "Hawick Agency",
+    "thumbnail": "/images/properties/agency/hawick-agency.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "4815:hawick-agency",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["the-agency"],
+        "frontend_value": ["Agencies"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "Hawick",
+        "frontend_value": "Hawick",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct12": {
+        "value": ["dynasty8-executive"],
+        "frontend_value": ["Dynasty 8 Executive"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2830000",
+        "frontend_value": "2830000",
+        "formatted_value": "2,830,000",
+        "twodecimals_value": "2,830,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["20"],
+        "frontend_value": ["20"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct3": {
+        "value": [1639526400],
+        "frontend_value": [1639526400],
+        "formatted_value": ["December 15, 2021"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": ["gta-online-the-contract-update-december-2021-patch-notes"],
+        "frontend_value": ["1.58 The Contract"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct22": {
+        "value": ["pc", "ps4", "xboxone"],
+        "frontend_value": ["PC", "PlayStation 4", "Xbox One"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "623",
+    "lang": "en-GB",
+    "hits": 34619,
+    "name": "Eclipse Towers, Penthouse Suite 3",
+    "thumbnail": "/images/properties/apartments/eclipse-towers.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "623:eclipse-towers-penthouse-suite-3",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1100000",
+        "frontend_value": "1100000",
+        "formatted_value": "1,100,000",
+        "twodecimals_value": "1,100,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Rockford Hills",
+        "frontend_value": "Rockford Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end-custom", "high-end"],
+        "frontend_value": ["High-End - Custom", "High-End"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["xboxone", "ps4", "pc"],
+        "frontend_value": ["Xbox One", "PlayStation 4", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "624",
+    "lang": "en-GB",
+    "hits": 12160,
+    "name": "Eclipse Towers, Penthouse Suite 1",
+    "thumbnail": "/images/properties/apartments/eclipse-towers.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "624:eclipse-towers-penthouse-suite-1",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "985000",
+        "frontend_value": "985000",
+        "formatted_value": "985,000",
+        "twodecimals_value": "985,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Rockford Hills",
+        "frontend_value": "Rockford Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-custom"],
+        "frontend_value": ["High-End", "High-End - Custom"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "625",
+    "lang": "en-GB",
+    "hits": 21132,
+    "name": "Eclipse Towers, Penthouse Suite 2",
+    "thumbnail": "/images/properties/apartments/eclipse-towers.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "625:eclipse-towers-penthouse-suite-2",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "905000",
+        "frontend_value": "905000",
+        "formatted_value": "905,000",
+        "twodecimals_value": "905,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Rockford Hills",
+        "frontend_value": "Rockford Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-custom"],
+        "frontend_value": ["High-End", "High-End - Custom"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "626",
+    "lang": "en-GB",
+    "hits": 23593,
+    "name": "3655 Wild Oats Drive",
+    "thumbnail": "/images/properties/apartments/stilt-3655-wild-oats-drive.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "626:3655-wild-oats-drive",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "800000",
+        "frontend_value": "800000",
+        "formatted_value": "800,000",
+        "twodecimals_value": "800,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "627",
+    "lang": "en-GB",
+    "hits": 14434,
+    "name": "2044 North Conker Avenue",
+    "thumbnail": "/images/properties/apartments/stilt-2044-north-conker-avenue.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "627:2044-north-conker-avenue",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "762000",
+        "frontend_value": "762000",
+        "formatted_value": "762,000",
+        "twodecimals_value": "762,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "628",
+    "lang": "en-GB",
+    "hits": 9341,
+    "name": "2045 North Conker Avenue",
+    "thumbnail": "/images/properties/apartments/stilt-2045-north-conker-avenue.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "628:2045-north-conker-avenue",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "727000",
+        "frontend_value": "727000",
+        "formatted_value": "727,000",
+        "twodecimals_value": "727,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "629",
+    "lang": "en-GB",
+    "hits": 8000,
+    "name": "2862 Hillcrest Avenue",
+    "thumbnail": "/images/properties/apartments/stilt-2862-hillcrest-avenue.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "629:2862-hillcrest-avenue",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "705000",
+        "frontend_value": "705000",
+        "formatted_value": "705,000",
+        "twodecimals_value": "705,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "630",
+    "lang": "en-GB",
+    "hits": 6192,
+    "name": "2868 Hillcrest Avenue",
+    "thumbnail": "/images/properties/apartments/stilt-2868-hillcrest-avenue.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "630:2868-hillcrest-avenue",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "672000",
+        "frontend_value": "672000",
+        "formatted_value": "672,000",
+        "twodecimals_value": "672,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "631",
+    "lang": "en-GB",
+    "hits": 6061,
+    "name": "2117 Milton Road",
+    "thumbnail": "/images/properties/apartments/stilt-2117-milton-road.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "631:2117-milton-road",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "608000",
+        "frontend_value": "608000",
+        "formatted_value": "608,000",
+        "twodecimals_value": "608,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "632",
+    "lang": "en-GB",
+    "hits": 6189,
+    "name": "2874 Hillcrest Avenue",
+    "thumbnail": "/images/properties/apartments/stilt-2874-hillcrest-avenue.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "632:2874-hillcrest-avenue",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "571000",
+        "frontend_value": "571000",
+        "formatted_value": "571,000",
+        "twodecimals_value": "571,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Hills",
+        "frontend_value": "Vinewood Hills",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-stilt"],
+        "frontend_value": ["High-End", "High-End - Stilt House"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["apartments"],
+        "frontend_value": ["Apartments"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "1862",
+    "lang": "en-GB",
+    "hits": 851,
+    "name": "Maze Bank Arena Workshop",
+    "thumbnail": "/images/properties/arena-workshop/GTAOnline_ArenaWorkshop.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "1862:maze-bank-arena-workshop",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["arena-workshop"],
+        "frontend_value": ["Arena Workshop"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct40": {
+        "value": ["west-ls"],
+        "frontend_value": ["West Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "La Puerta",
+        "frontend_value": "La Puerta",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct38": {
+        "value": ["31"],
+        "frontend_value": ["31"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct12": {
+        "value": ["arena-war"],
+        "frontend_value": ["Arena War"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["arena-war"],
+        "frontend_value": ["1.46 Arena War"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct13": {
+        "value": "995000",
+        "frontend_value": "995000",
+        "formatted_value": "995,000",
+        "twodecimals_value": "995,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct3": {
+        "value": [1544486400],
+        "frontend_value": [1544486400],
+        "formatted_value": ["December 11, 2018"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    },
+    "featured": "0",
+    "access": "1"
+  },
+  {
+    "id": "3749",
+    "lang": "en-GB",
+    "hits": 62,
+    "name": "La Mesa Auto Shop",
+    "thumbnail": "/images/properties/auto-shop/la-mesa-auto-shop.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "3749:la-mesa-auto-shop",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["auto-shop"],
+        "frontend_value": ["Auto Shops"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct3": {
+        "value": [1626739200],
+        "frontend_value": [1626739200],
+        "formatted_value": ["July 20, 2021"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": [
+          "gta-online-update-1-55-patch-notes-summer-2021-dlc-all-details"
+        ],
+        "frontend_value": ["1.57 Los Santos Tuners"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct39": {
+        "value": "La Mesa",
+        "frontend_value": "La Mesa",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1920000",
+        "frontend_value": "1920000",
+        "formatted_value": "1,920,000",
+        "twodecimals_value": "1,920,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct40": {
+        "value": ["east-ls"],
+        "frontend_value": ["East Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct22": {
+        "value": ["pc", "ps4", "xboxone"],
+        "frontend_value": ["PC", "PlayStation 4", "Xbox One"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "710",
+    "lang": "en-GB",
+    "hits": 10420,
+    "name": "Farmhouse Bunker",
+    "thumbnail": "/images/properties/bunker/farmhouse-bunker.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "710:farmhouse-bunker",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1497312000],
+        "frontend_value": [1497312000],
+        "formatted_value": ["June 13, 2017"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2375000",
+        "frontend_value": "2375000",
+        "formatted_value": "2,375,000",
+        "twodecimals_value": "2,375,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["3"],
+        "frontend_value": ["3"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Grand Senora Desert",
+        "frontend_value": "Grand Senora Desert",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["blaine-county"],
+        "frontend_value": ["Blaine County"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["bunkers"],
+        "frontend_value": ["Bunkers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["gunrunning"],
+        "frontend_value": ["1.40 Gunrunning Pack"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "639",
+    "lang": "en-GB",
+    "hits": 10713,
+    "name": "Darnel Bros Warehouse",
+    "thumbnail": "/images/properties/cargo-warehouse/darnel-bros-warehouse.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "639:darnel-bros-warehouse",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1465257600],
+        "frontend_value": [1465257600],
+        "formatted_value": ["June 7, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["securoserv"],
+        "frontend_value": ["SecuroServ"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "3500000",
+        "frontend_value": "3500000",
+        "formatted_value": "3,500,000",
+        "twodecimals_value": "3,500,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct37": {
+        "value": ["large-warehouse"],
+        "frontend_value": ["Warehouse - Large"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "La Mesa",
+        "frontend_value": "La Mesa",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["east-ls"],
+        "frontend_value": ["East Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["warehouses"],
+        "frontend_value": ["Special Cargo Warehouses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["further-adventures-in-finance-felony"],
+        "frontend_value": ["1.34 Further Adventures in Finance and Felony"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    },
+    "featured": "0",
+    "access": "1"
+  },
+  {
+    "id": "2218",
+    "lang": "en-GB",
+    "hits": 0,
+    "name": "The Diamond Casino Master Penthouse",
+    "thumbnail": "/images/properties/casino-penthouse/master-penthouse.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "2218:the-diamond-master-penthouse",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["master-penthouse"],
+        "frontend_value": ["Casino Penthouse"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "Vinewood Park Drive",
+        "frontend_value": "Vinewood Park Drive",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct3": {
+        "value": [1563840000],
+        "frontend_value": [1563840000],
+        "formatted_value": ["July 23, 2019"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": [
+          "gta-v-title-update-1-47-patch-notes-the-diamond-casino-resort"
+        ],
+        "frontend_value": ["1.48 Diamond Casino & Resort"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct13": {
+        "value": "1500000",
+        "frontend_value": "1500000",
+        "formatted_value": "1,500,000",
+        "twodecimals_value": "1,500,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct12": {
+        "value": ["thediamondcasinoandresort"],
+        "frontend_value": ["The Diamond Casino & Resort"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "664",
+    "lang": "en-GB",
+    "hits": 47714,
+    "name": "Maze Bank West Office & Garage",
+    "thumbnail": "/images/properties/office/maze-bank-west.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "664:maze-bank-west-office",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1465257600],
+        "frontend_value": [1465257600],
+        "formatted_value": ["June 7, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8-executive"],
+        "frontend_value": ["Dynasty 8 Executive"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1000000",
+        "frontend_value": "1000000",
+        "formatted_value": "1,000,000",
+        "twodecimals_value": "1,000,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Del Perro",
+        "frontend_value": "Del Perro",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["further-adventures-in-finance-felony"],
+        "frontend_value": ["1.34 Further Adventures in Finance and Felony"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct36": {
+        "value": ["offices"],
+        "frontend_value": ["Executive Offices"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct22": {
+        "value": ["xboxone", "ps4", "pc"],
+        "frontend_value": ["Xbox One", "PlayStation 4", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "706",
+    "lang": "en-GB",
+    "hits": 9552,
+    "name": "CEO Office Garage: Level 1",
+    "thumbnail": "/images/properties/office-garage/GTAOnline_OfficeGarage.jpg",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "catid": "21",
+    "slug": "706:ceo-office-garage-level-1",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1481587200],
+        "frontend_value": [1481587200],
+        "formatted_value": ["December 13, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8-executive"],
+        "frontend_value": ["Dynasty 8 Executive"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1150000",
+        "frontend_value": "1150000",
+        "formatted_value": "1,150,000",
+        "twodecimals_value": "1,150,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["20"],
+        "frontend_value": ["20"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct36": {
+        "value": ["office-garages"],
+        "frontend_value": ["Executive Office Garages"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["import-export"],
+        "frontend_value": ["1.37 Import/Export"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "708",
+    "lang": "en-GB",
+    "hits": 13725,
+    "name": "CEO Office Garage: Level 2",
+    "thumbnail": "/images/properties/office-garage/GTAOnline_OfficeGarage2.jpg",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "catid": "21",
+    "slug": "708:ceo-office-garage-level-2",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1481587200],
+        "frontend_value": [1481587200],
+        "formatted_value": ["December 13, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8-executive"],
+        "frontend_value": ["Dynasty 8 Executive"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "855000",
+        "frontend_value": "855000",
+        "formatted_value": "855,000",
+        "twodecimals_value": "855,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["20"],
+        "frontend_value": ["20"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct36": {
+        "value": ["office-garages"],
+        "frontend_value": ["Executive Office Garages"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["import-export"],
+        "frontend_value": ["1.37 Import/Export"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "709",
+    "lang": "en-GB",
+    "hits": 19308,
+    "name": "CEO Office Garage: Level 3",
+    "thumbnail": "/images/properties/office-garage/GTAOnline_OfficeGarage3.jpg",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "catid": "21",
+    "slug": "709:ceo-office-garage-level-3",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1481587200],
+        "frontend_value": [1481587200],
+        "formatted_value": ["December 13, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["dynasty8-executive"],
+        "frontend_value": ["Dynasty 8 Executive"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "745000",
+        "frontend_value": "745000",
+        "formatted_value": "745,000",
+        "twodecimals_value": "745,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["20"],
+        "frontend_value": ["20"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct36": {
+        "value": ["office-garages"],
+        "frontend_value": ["Executive Office Garages"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["import-export"],
+        "frontend_value": ["1.37 Import/Export"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "727",
+    "lang": "en-GB",
+    "hits": 7763,
+    "name": "Sandy Shores Facility",
+    "thumbnail": "/images/properties/facility/sandy-shores-facility.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "727:sandy-shores-facility",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1513036800],
+        "frontend_value": [1513036800],
+        "formatted_value": ["December 12, 2017"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2740000",
+        "frontend_value": "2740000",
+        "formatted_value": "2,740,000",
+        "twodecimals_value": "2,740,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["12"],
+        "frontend_value": ["12"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Sandy Shores",
+        "frontend_value": "Sandy Shores",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["blaine-county"],
+        "frontend_value": ["Blaine County"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["facilities"],
+        "frontend_value": ["Facilities"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["doomsday-heist"],
+        "frontend_value": ["1.42 The Doomsday Heist"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "5641",
+    "lang": "en-GB",
+    "hits": 0,
+    "name": "Eclipse Blvd Garage (50-car)",
+    "thumbnail": "/images/properties/garage/eclipse-blvd-garage.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "5641:eclipse-blvd-garage",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["garages"],
+        "frontend_value": ["Garages"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "Eclipse Boulevard, Vinewood West",
+        "frontend_value": "Eclipse Boulevard, Vinewood West",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct12": {
+        "value": ["dynasty8"],
+        "frontend_value": ["Dynasty 8 Real Estate"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2740000",
+        "frontend_value": "2740000",
+        "formatted_value": "2,740,000",
+        "twodecimals_value": "2,740,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["50"],
+        "frontend_value": ["50"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct4": {
+        "value": ["gta-online-december-update-2022-dlc-patch-notes-features"],
+        "frontend_value": ["1.64 LS Drug Wars"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct37": {
+        "value": ["high-end", "high-end-custom"],
+        "frontend_value": ["High-End", "High-End - Custom"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct3": {
+        "value": [1676505600],
+        "frontend_value": [1676505600],
+        "formatted_value": ["February 16, 2023"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct22": {
+        "value": ["pc", "ps5", "xbox-seriesx", "ps4", "xboxone"],
+        "frontend_value": [
+          "PC",
+          "PlayStation 5",
+          "Xbox Series X|S",
+          "PlayStation 4",
+          "Xbox One"
+        ],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "721",
+    "lang": "en-GB",
+    "hits": 10588,
+    "name": "Fort Zancudo Hangar A2",
+    "thumbnail": "/images/properties/hangar/fort-zancudo-hangar-a2.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "721:fort-zancudo-hangar-a2",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1503964800],
+        "frontend_value": [1503964800],
+        "formatted_value": ["August 29, 2017"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "3250000",
+        "frontend_value": "3250000",
+        "formatted_value": "3,250,000",
+        "twodecimals_value": "3,250,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["20"],
+        "frontend_value": ["20"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Fort Zancudo",
+        "frontend_value": "Fort Zancudo",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["blaine-county"],
+        "frontend_value": ["Blaine County"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["hangars"],
+        "frontend_value": ["Hangars"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["smugglers-run"],
+        "frontend_value": ["1.41 Smuggler's Run"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "3061",
+    "lang": "en-GB",
+    "hits": 0,
+    "name": "RUNE Kosatka Submarine HQ",
+    "thumbnail": "/images/properties/large-vehicles/kosatka.jpg",
+    "thumbnail_width": 974,
+    "thumbnail_height": 548,
+    "catid": "21",
+    "slug": "3061:kosatka-submarine-hq",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["command-centers"],
+        "frontend_value": ["Large Vehicle Properties"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct3": {
+        "value": [1607990400],
+        "frontend_value": [1607990400],
+        "formatted_value": ["December 15, 2020"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": [
+          "gta-online-update-1-52-patch-notes-the-cayo-perico-heist-dlc-all-details"
+        ],
+        "frontend_value": ["1.52 Cayo Perico Heist"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct12": {
+        "value": ["warstock-cache-carry"],
+        "frontend_value": ["Warstock Cache & Carry"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2200000",
+        "frontend_value": "2200000",
+        "formatted_value": "2,200,000",
+        "twodecimals_value": "2,200,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["3"],
+        "frontend_value": ["3"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct22": {
+        "value": ["pc", "ps4", "xboxone"],
+        "frontend_value": ["PC", "PlayStation 4", "Xbox One"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "5637",
+    "lang": "en-GB",
+    "hits": 0,
+    "name": "Acid Lab (The Freakshop)",
+    "thumbnail": "/images/properties/large-vehicles/acid-lab.jpg",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "catid": "21",
+    "slug": "5637:acid-lab",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["command-centers"],
+        "frontend_value": ["Large Vehicle Properties"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct3": {
+        "value": [1670889600],
+        "frontend_value": [1670889600],
+        "formatted_value": ["December 13, 2022"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": ["gta-online-december-update-2022-dlc-patch-notes-features"],
+        "frontend_value": ["1.64 LS Drug Wars"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct13": {
+        "value": "750000",
+        "frontend_value": "750000",
+        "formatted_value": "750,000",
+        "twodecimals_value": "750,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct22": {
+        "value": ["pc", "ps5", "xbox-seriesx", "ps4", "xboxone"],
+        "frontend_value": [
+          "PC",
+          "PlayStation 5",
+          "Xbox Series X|S",
+          "PlayStation 4",
+          "Xbox One"
+        ],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "665",
+    "lang": "en-GB",
+    "hits": 16203,
+    "name": "Cocaine Lockup Morningwood",
+    "thumbnail": "/images/properties/mc-businesses/cocaine-lockup-morningwood.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "665:cocaine-lockup-morningwood",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["the-open-road"],
+        "frontend_value": ["The Open Road"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1852500",
+        "frontend_value": "1852500",
+        "formatted_value": "1,852,500",
+        "twodecimals_value": "1,852,500.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Morningwood",
+        "frontend_value": "Morningwood",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-businesses"],
+        "frontend_value": ["MC Businesses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "666",
+    "lang": "en-GB",
+    "hits": 8219,
+    "name": "Methamphetamine Lab El Burro Heights",
+    "thumbnail": "/images/properties/mc-businesses/methamphetamine-lab-el-burro-heights.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "666:methamphetamine-lab-el-burro-heights",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["the-open-road"],
+        "frontend_value": ["The Open Road"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1729000",
+        "frontend_value": "1729000",
+        "formatted_value": "1,729,000",
+        "twodecimals_value": "1,729,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "El Burro Heights",
+        "frontend_value": "El Burro Heights",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["east-ls"],
+        "frontend_value": ["East Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-businesses"],
+        "frontend_value": ["MC Businesses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "667",
+    "lang": "en-GB",
+    "hits": 7139,
+    "name": "Counterfeit Cash Factory Vespucci Canals",
+    "thumbnail": "/images/properties/mc-businesses/counterfeit-cash-factory-vespucci-canals.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "667:counterfeit-cash-factory-vespucci-canals",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["the-open-road"],
+        "frontend_value": ["The Open Road"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1605000",
+        "frontend_value": "1605000",
+        "formatted_value": "1,605,000",
+        "twodecimals_value": "1,605,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vespucci Canals",
+        "frontend_value": "Vespucci Canals",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["west-ls"],
+        "frontend_value": ["West Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-businesses"],
+        "frontend_value": ["MC Businesses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "670",
+    "lang": "en-GB",
+    "hits": 9728,
+    "name": "Weed Farm Downtown Vinewood",
+    "thumbnail": "/images/properties/mc-businesses/weed-farm-downtown-vinewood.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "670:weed-farm-downtown-vinewood",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["the-open-road"],
+        "frontend_value": ["The Open Road"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1358500",
+        "frontend_value": "1358500",
+        "formatted_value": "1,358,500",
+        "twodecimals_value": "1,358,500.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood Downtown",
+        "frontend_value": "Vinewood Downtown",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-businesses"],
+        "frontend_value": ["MC Businesses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "672",
+    "lang": "en-GB",
+    "hits": 6052,
+    "name": "Document Forgery Office Textile City",
+    "thumbnail": "/images/properties/mc-businesses/document-forgery-office-textile-city.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "672:document-forgery-office-textile-city",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["the-open-road"],
+        "frontend_value": ["The Open Road"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1235000",
+        "frontend_value": "1235000",
+        "formatted_value": "1,235,000",
+        "twodecimals_value": "1,235,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Textile City",
+        "frontend_value": "Textile City",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["downtown-ls"],
+        "frontend_value": ["Downtown Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-businesses"],
+        "frontend_value": ["MC Businesses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "685",
+    "lang": "en-GB",
+    "hits": 8626,
+    "name": "Hawick Clubhouse",
+    "thumbnail": "/images/properties/mc-clubhouse/hawick-clubhouse.jpeg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "685:hawick-clubhouse",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1475539200],
+        "frontend_value": [1475539200],
+        "formatted_value": ["October 4, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "495000",
+        "frontend_value": "495000",
+        "formatted_value": "495,000",
+        "twodecimals_value": "495,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "1778 Hawick Avenue",
+        "frontend_value": "1778 Hawick Avenue",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["mc-clubhouses"],
+        "frontend_value": ["MC Clubhouses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["bikers"],
+        "frontend_value": ["1.36 Bikers"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct37": {
+        "value": ["clubhouse-2-story"],
+        "frontend_value": ["Clubhouse - Two Story"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Property Style"],
+        "type": "multiple"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "1118",
+    "lang": "en-GB",
+    "hits": 11663,
+    "name": "West Vinewood Nightclub",
+    "thumbnail": "/images/properties/nightclub/west-vinewood-nightclub.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "1118:west-vinewood-nightclub",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["nightclubs"],
+        "frontend_value": ["Nightclubs"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct3": {
+        "value": [1532390400],
+        "frontend_value": [1532390400],
+        "formatted_value": ["July 24, 2018"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": ["after-hours"],
+        "frontend_value": ["1.44 After Hours"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct38": {
+        "value": ["36"],
+        "frontend_value": ["36"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "1700000",
+        "frontend_value": "1700000",
+        "formatted_value": "1,700,000",
+        "twodecimals_value": "1,700,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Vinewood West",
+        "frontend_value": "Vinewood West",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "2427",
+    "lang": "en-GB",
+    "hits": 8142,
+    "name": "Eight-Bit Arcade",
+    "thumbnail": "/images/properties/retro-arcade/eight-bit-arcade.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "2427:eight-bit-arcade",
+    "catslug": "21",
+    "attr": {
+      "ct36": {
+        "value": ["retro-arcade-property"],
+        "frontend_value": ["Retro Arcades"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct39": {
+        "value": "Vinewood",
+        "frontend_value": "Vinewood",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["north-ls"],
+        "frontend_value": ["North Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct12": {
+        "value": ["maze-bank-foreclosures"],
+        "frontend_value": ["Maze Bank Foreclosures"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct38": {
+        "value": ["10"],
+        "frontend_value": ["10"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct3": {
+        "value": [1576108800],
+        "frontend_value": [1576108800],
+        "formatted_value": ["December 12, 2019"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct4": {
+        "value": [
+          "gta-v-title-update-1-49-patch-notes-the-diamond-casino-heist"
+        ],
+        "frontend_value": ["1.49 Diamond Casino Heist"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct13": {
+        "value": "2530000",
+        "frontend_value": "2530000",
+        "formatted_value": "2,530,000",
+        "twodecimals_value": "2,530,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct22": {
+        "value": ["xboxone", "ps4", "pc"],
+        "frontend_value": ["Xbox One", "PlayStation 4", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "697",
+    "lang": "en-GB",
+    "hits": 7640,
+    "name": "Murrieta Heights Vehicle Warehouse",
+    "thumbnail": "/images/properties/vehicle-warehouse/murrieta-heights-vehicle-warehouse.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "697:murrieta-heights-vehicle-warehouse",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1481587200],
+        "frontend_value": [1481587200],
+        "formatted_value": ["December 13, 2016"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["securoserv"],
+        "frontend_value": ["SecuroServ"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "2850000",
+        "frontend_value": "2850000",
+        "formatted_value": "2,850,000",
+        "twodecimals_value": "2,850,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["8"],
+        "frontend_value": ["8"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct39": {
+        "value": "Murrieta Heights",
+        "frontend_value": "Murrieta Heights",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Location / District"],
+        "type": "value"
+      },
+      "ct40": {
+        "value": ["east-ls"],
+        "frontend_value": ["East Los Santos"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Area"],
+        "type": "multiple"
+      },
+      "ct36": {
+        "value": ["vehicle-warehouses"],
+        "frontend_value": ["Vehicle Warehouses"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["import-export"],
+        "frontend_value": ["1.37 Import/Export"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["ps4", "xboxone", "pc"],
+        "frontend_value": ["PlayStation 4", "Xbox One", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  },
+  {
+    "id": "636",
+    "lang": "en-GB",
+    "hits": 22772,
+    "name": "The Aquarius Yacht",
+    "thumbnail": "/images/properties/yacht/the-aquarius.jpg",
+    "thumbnail_width": 256,
+    "thumbnail_height": 128,
+    "catid": "21",
+    "slug": "636:the-aquarius-yacht",
+    "catslug": "21",
+    "attr": {
+      "ct3": {
+        "value": [1450137600],
+        "frontend_value": [1450137600],
+        "formatted_value": ["December 15, 2015"],
+        "params": {
+          "render_class": "release-date",
+          "label_render_class": ""
+        },
+        "title": ["Release Date"],
+        "type": "date"
+      },
+      "ct12": {
+        "value": ["docktease"],
+        "frontend_value": ["DockTease"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Available from"],
+        "type": "multiple"
+      },
+      "ct13": {
+        "value": "8000000",
+        "frontend_value": "8000000",
+        "formatted_value": "8,000,000",
+        "twodecimals_value": "8,000,000.00",
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Purchase Price"],
+        "type": "range"
+      },
+      "ct38": {
+        "value": ["2"],
+        "frontend_value": ["2"],
+        "params": {
+          "render_class": "capacity",
+          "label_render_class": ""
+        },
+        "title": ["Vehicles Capacity"],
+        "type": "range"
+      },
+      "ct36": {
+        "value": ["galaxy-super-yacht"],
+        "frontend_value": ["Yachts"],
+        "params": {
+          "render_class": "",
+          "label_render_class": null
+        },
+        "title": ["Property Type"],
+        "type": "multiple"
+      },
+      "ct4": {
+        "value": ["executives-and-other-criminals"],
+        "frontend_value": ["1.31 Executives and Other Criminals"],
+        "params": {
+          "render_class": "",
+          "label_render_class": ""
+        },
+        "title": ["Title Update"],
+        "type": "select"
+      },
+      "ct22": {
+        "value": ["xboxone", "ps4", "pc"],
+        "frontend_value": ["Xbox One", "PlayStation 4", "PC"],
+        "params": {
+          "render_class": "platforms",
+          "label_render_class": ""
+        },
+        "title": ["Platforms"],
+        "type": "multiple"
+      }
+    }
+  }
+]

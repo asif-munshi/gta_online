@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "name": "Mr-Munshi",
+  "picture": "/images/social/profile-picture.png",
+  "socials": [
+    {
+      "id": 1,
+      "name": "rockstar-social-club",
+      "icon": "/images/social/rockstar_newyorklogo.png",
+      "link": "https://socialclub.rockstargames.com/member/Mr-Munshi/"
+    },
+    {
+      "id": 2,
+      "name": "twitter",
+      "icon": "/images/social/twitter-logo-black.png",
+      "link": "https://twitter.com/realmrmunshi"
+    },
+    {
+      "id": 3,
+      "name": "reddit",
+      "icon": "/images/social/Reddit_Mark_OnWhite.svg",
+      "link": "https://www.reddit.com/user/mr-munshi"
+    },
+    {
+      "id": 4,
+      "name": "github",
+      "icon": "/images/social/github-mark.svg",
+      "link": "https://github.com/mr-munshi"
+    }
+  ]
+}
