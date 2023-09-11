@@ -3,6 +3,8 @@ import Image from "next/image";
 export default function Card({ props, name, background, margintop }) {
   const frontend_value40 = props.attr.ct40 || "";
   const frontend_value39 = props.attr.ct39 || "";
+
+  const garage_space = props.attr.ct38 || "";
   return (
     <div className={`${margintop} flex w-full flex-col rounded-lg shadow-md`}>
       <div
@@ -34,6 +36,17 @@ export default function Card({ props, name, background, margintop }) {
                 —
               </span>{" "}
               {frontend_value39.frontend_value}
+            </div>
+            <div className="font-normal">
+              <span
+                className={`${
+                  garage_space.frontend_value !== undefined
+                    ? "inline"
+                    : "hidden"
+                }`}
+              >
+                Garage: {garage_space.frontend_value}
+              </span>
             </div>
           </div>
         </div>

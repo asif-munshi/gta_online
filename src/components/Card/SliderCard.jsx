@@ -39,6 +39,7 @@ export default function SliderCard({ props, name, background, margintop }) {
           const frontend_value40 = item.attr.ct40 || "";
           const frontend_value39 = item.attr.ct39 || "";
 
+          const garage_space = item.attr.ct38 || "";
           return (
             <div key={item.id} className="p-2">
               <div className="flex flex-row items-center justify-between">
@@ -65,6 +66,17 @@ export default function SliderCard({ props, name, background, margintop }) {
                         —
                       </span>{" "}
                       {frontend_value39.frontend_value}
+                    </div>
+                    <div className="font-normal">
+                      <span
+                        className={`${
+                          garage_space.frontend_value !== undefined
+                            ? "inline"
+                            : "hidden"
+                        }`}
+                      >
+                        Garage: {garage_space.frontend_value}
+                      </span>
                     </div>
                   </div>
                 </div>
