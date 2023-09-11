@@ -30,7 +30,7 @@ export default function Profile() {
 
   return (
     <div className="mt-4 flex flex-col gap-4">
-      <div className="flex w-full flex-col items-center justify-between gap-0 xs:flex-row">
+      <div className="xs:flex-row flex w-full flex-col items-center justify-between gap-0">
         <div className="flex flex-row items-center gap-2">
           <Image
             src={profile.picture}
@@ -57,7 +57,7 @@ export default function Profile() {
             />
           </div>
         </div>
-        <div className="flex flex-col items-start gap-4 py-4 xs:pt-0">
+        <div className="xs:pt-0 flex flex-col items-start gap-4 py-4">
           <div className="font-semibold">Socials</div>
           <div className="flex flex-row gap-4">
             {profile.socials.map((social) => (
@@ -77,24 +77,24 @@ export default function Profile() {
       </div>
       <div className="grid grid-cols-2 gap-0 md:grid-cols-3 lg:grid-cols-5">
         <div className="flex flex-col items-center gap-4 pb-4 lg:items-start">
-          <div className="text-base font-bold xs:text-lg">PROPERTIES</div>
-          <div className="text-xl font-bold xs:text-2xl">1</div>
+          <div className="xs:text-lg text-base font-bold">PROPERTIES</div>
+          <div className="xs:text-2xl text-xl font-bold">1</div>
         </div>
         <div className="flex flex-col items-center gap-4 pb-4 lg:items-start">
-          <div className="text-base font-bold xs:text-lg">CARS</div>
-          <div className="text-xl font-bold xs:text-2xl">1</div>
+          <div className="xs:text-lg text-base font-bold">CARS</div>
+          <div className="xs:text-2xl text-xl font-bold">1</div>
         </div>
         <div className="flex flex-col items-center gap-4 pb-4 lg:items-start">
-          <div className="text-base font-bold xs:text-lg">MOTORCYCLES</div>
-          <div className="text-xl font-bold xs:text-2xl">1</div>
+          <div className="xs:text-lg text-base font-bold">MOTORCYCLES</div>
+          <div className="xs:text-2xl text-xl font-bold">1</div>
         </div>
         <div className="flex flex-col items-center gap-4 pb-4 lg:items-start">
-          <div className="text-base font-bold xs:text-lg">PLANES</div>
-          <div className="text-xl font-bold xs:text-2xl">1</div>
+          <div className="xs:text-lg text-base font-bold">PLANES</div>
+          <div className="xs:text-2xl text-xl font-bold">1</div>
         </div>
         <div className="col-span-2 flex flex-col items-center gap-4 pb-4 lg:col-auto lg:items-start">
-          <div className="text-base font-bold xs:text-lg">NET WORTH VALUE</div>
-          <div className="text-xl font-bold text-green-500 xs:text-2xl">$1</div>
+          <div className="xs:text-lg text-base font-bold">NET WORTH VALUE</div>
+          <div className="xs:text-2xl text-xl font-bold text-green-500">$1</div>
         </div>
       </div>
     </div>
