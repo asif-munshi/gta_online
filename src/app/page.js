@@ -30,6 +30,7 @@ import {
   VehicleWarehouse,
   Yacht,
 } from "../lib/getData";
+import ListBox from "@/components/List/Listbox";
 
 export default function Home() {
   //phase-1
@@ -162,6 +163,7 @@ export default function Home() {
     <main className="mx-auto min-h-screen max-w-[68rem] bg-white px-2">
       <div className="flex flex-col gap-4">
         <Profile />
+        <ListBox />
 
         {/* phase-1 */}
         <Card
